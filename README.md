@@ -2,7 +2,7 @@
 # DIY-NAMIC Data Analysis
 
 
-This is the third repository in a three-part series containing the data analysis codes for data collected in DIY-NAMIC boxes using behavioral paradigms from [second repository](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs).  
+This is the third repository, in a three-part series, which contains scripts for analysis of data collected in DIY-NAMIC boxes using behavioral paradigms from [second repository](https://github.com/jhl0204/DNAMIC-Arduino-Software-Programs).  
 
 ___
 
